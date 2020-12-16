@@ -1,0 +1,4 @@
+- Download to desired directory
+- Install virtual environment `python3 -m venv env`
+- Activate virtual environment `source env/bin/activate`
+- Install requirements `pip3 install -r requirements.txt`
